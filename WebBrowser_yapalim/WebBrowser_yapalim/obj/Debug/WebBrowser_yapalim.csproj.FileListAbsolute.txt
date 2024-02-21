@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\bin\Debug\WebBrowser_yapalim.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\bin\Debug\WebBrowser_yapalim.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\bin\Debug\WebBrowser_yapalim.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\obj\Debug\WebBrowser_yapalim.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\obj\Debug\WebBrowser_yapalim.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\obj\Debug\WebBrowser_yapalim.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\obj\Debug\WebBrowser_yapalim.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\obj\Debug\WebBrowser_yapalim.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WebBrowser_yapalim\WebBrowser_yapalim\obj\Debug\WebBrowser_yapalim.pdb
